@@ -2,6 +2,7 @@
 
 This file illustrates the input format required by
 `bivariate_survival_data_io.py`.
+The example catalog example_input.csv was generated using the same mock-data model employed in the numerical experiments presented in Section 4 of the accompanying paper. The file contains the first 20 observed objects (Regions A, B, and C) after applying the simulated observational selection. Its purpose is solely to illustrate the required input format for Algorithm 3.
 
 Each row corresponds to one astronomical object.
 
